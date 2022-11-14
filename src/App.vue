@@ -16,7 +16,7 @@ export default {
 
 <template>
 
-  <AppTitle />
+  <AppTitle/>
   
 </template>
 
